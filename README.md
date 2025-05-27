@@ -22,3 +22,7 @@
 
 5. **Текстовая Новелла**  
  [здесь](https://github.com/wexcry/-/blob/main/%D0%9D%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0.cs)
+
+6. **Задания Code-Run**
+
+[1]()
