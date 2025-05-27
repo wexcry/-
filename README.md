@@ -27,4 +27,6 @@
 
 [1](https://github.com/wexcry/-/blob/main/1.cs)
 
-[2]()
+[2](https://github.com/wexcry/-/blob/main/2.cs)
+
+[3]()
