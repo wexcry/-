@@ -18,4 +18,4 @@
 [4 задание](https://github.com/wexcry/-/blob/main/4%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.cs)
 
 4. **Игра "Крестики-нолики"**
-5. [здесь](https://github.com/wexcry/-/blob/main/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%BD%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8.cs)
+ [здесь](https://github.com/wexcry/-/blob/main/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%BD%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8.cs)
