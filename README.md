@@ -9,10 +9,10 @@
 
 3.Изучение циклов
 
-[1 задание]()
+[1 задание](https://github.com/wexcry/-/blob/main/1%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.cs)
 
-[2 задание]()
+[2 задание](https://github.com/wexcry/-/blob/main/2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.cs)
 
-[3 задание]()
+[3 задание](https://github.com/wexcry/-/blob/main/3%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.cs)
 
-[4 задание]()
+[4 задание](https://github.com/wexcry/-/blob/main/4%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.cs)
