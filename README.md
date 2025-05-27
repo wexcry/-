@@ -25,4 +25,6 @@
 
 6. **Задания Code-Run**
 
-[1]()
+[1](https://github.com/wexcry/-/blob/main/1.cs)
+
+[2]()
