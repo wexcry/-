@@ -29,4 +29,4 @@
 
 [2](https://github.com/wexcry/-/blob/main/2.cs)
 
-[3]()
+[3](https://github.com/wexcry/-/blob/main/3.cs)
